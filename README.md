@@ -22,5 +22,5 @@ En el archivo ```analysis.ipynb```  he realizado el análisis del data set limpi
 
 Recomendación: si no quieres morir no te metas en el mar ni en Australia ni en USA!
 
-![](shark-meme.jpg)
+![](memeshark.jpg)
 

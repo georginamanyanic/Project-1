@@ -20,7 +20,6 @@ En el archivo ```analysis.ipynb```  he realizado el análisis del data set limpi
 3.	Tanto en Australia como en USA, nadar, hacer submarinismo, surfear o pescar son las actividades con las que más personas mueren atacadas por un tiburón. Sin embargo, hay diferencias entre los países, por ejemplo, la pesca provoca muchas más muertes en USA que en Australia. 
 4.	En ambos países mueren más hombres que mujeres, no hay ninguna diferencia por país. 
 
-Recomendación: si no quieres morir no te metas en el mar ni en Australia ni en USA!
 
 ![](memeshark.jpg)
 
